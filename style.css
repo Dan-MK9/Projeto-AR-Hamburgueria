@@ -13,10 +13,6 @@ body {
     background-color: #201F1F;
 }
 
-h1 {
-    font-family: 'Changa Um';
-}
-
 h3 {
     font-family: 'Franklin Gothic Medium';
 }
@@ -48,9 +44,10 @@ header .container-grid img {
 
 header .container-grid h1 {
     color: white;
-    font-family: 'Jomhuria';
+    font-family: 'Changa One';
 
     font-size: 30px;
+    font-weight: normal;
 }
 
 .subtitulos {
@@ -115,7 +112,7 @@ header .container-grid h1 {
 }
 
 .opcoes-lanches {
-    width: 350px;
+    width: 95%;
     height: 150px;
 
     display: flex;
@@ -194,7 +191,7 @@ header .container-grid h1 {
 }
 
 .opcoes-extra {
-    width: 350px;
+    width: 95%;
     height: 90px;
 
     display: flex;
