@@ -13,8 +13,15 @@ body {
     background-color: #201F1F;
 }
 
+p {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+}
+
 h3 {
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Changa One';
+    font-weight: normal;
 }
 
 header {
@@ -69,6 +76,8 @@ header .container-grid h1 {
 .subtitulos h2 {
     color: white;
     font-size: 20px;
+    font-family: 'Changa One';
+    font-weight: normal;
 }
 
 .linha {
