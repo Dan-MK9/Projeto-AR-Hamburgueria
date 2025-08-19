@@ -113,7 +113,7 @@ header .container-grid h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     
     border: 3px solid white;
     border-radius: 10px;
